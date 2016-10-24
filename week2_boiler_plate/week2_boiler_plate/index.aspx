@@ -16,6 +16,7 @@
     <%
         string s = "Hello World!";
         Response.Write(s);
+        //week2_boiler_plate::AssignmentContainer::AssignmentWeek2();
          %>
 </body>
 </html>

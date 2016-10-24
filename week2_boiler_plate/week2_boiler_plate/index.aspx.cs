@@ -13,5 +13,13 @@ namespace week2_boiler_plate
         {
 
         }
+
+
+        protected override void OnLoad(EventArgs e)
+        {
+            base.OnLoad(e);
+            AssignmentContainer ctn = new AssignmentContainer();
+            ctn.AssignmentWeek2();
+        }
     }
 }
