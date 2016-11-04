@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{12CD0FB5-211B-4BD3-9ECA-CFDC22C5C01E}|Default">
+  <MonoDevelop.Ide.ItemProperties.Bridge__Design__Pattern__Example PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractBridge.cs">
+    <Files>
+      <File FileName="IBridge.cs" Line="1" Column="1" />
+      <File FileName="AbstractBridge.cs" Line="1" Column="1" />
+      <File FileName="Bridge1.cs" Line="1" Column="1" />
+      <File FileName="IAbstractBridge.cs" Line="1" Column="1" />
+      <File FileName="App.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

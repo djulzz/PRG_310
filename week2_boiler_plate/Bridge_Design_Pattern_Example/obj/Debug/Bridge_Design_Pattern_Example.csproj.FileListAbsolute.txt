@@ -1,0 +1,6 @@
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\week2_boiler_plate\Bridge_Design_Pattern_Example\obj\Debug\Bridge_Design_Pattern_Example.csprojResolveAssemblyReference.cache
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\week2_boiler_plate\Bridge_Design_Pattern_Example\bin\Debug\Bridge_Design_Pattern_Example.exe.config
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\week2_boiler_plate\Bridge_Design_Pattern_Example\bin\Debug\Bridge_Design_Pattern_Example.exe
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\week2_boiler_plate\Bridge_Design_Pattern_Example\bin\Debug\Bridge_Design_Pattern_Example.pdb
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\week2_boiler_plate\Bridge_Design_Pattern_Example\obj\Debug\Bridge_Design_Pattern_Example.exe
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\week2_boiler_plate\Bridge_Design_Pattern_Example\obj\Debug\Bridge_Design_Pattern_Example.pdb
