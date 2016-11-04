@@ -1,0 +1,6 @@
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\Design_Patterns\BridgePattern_Revisited\BridgePattern_Revisited\bin\Debug\BridgePattern_Revisited.exe.config
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\Design_Patterns\BridgePattern_Revisited\BridgePattern_Revisited\bin\Debug\BridgePattern_Revisited.exe
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\Design_Patterns\BridgePattern_Revisited\BridgePattern_Revisited\bin\Debug\BridgePattern_Revisited.pdb
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\Design_Patterns\BridgePattern_Revisited\BridgePattern_Revisited\obj\Debug\BridgePattern_Revisited.csprojResolveAssemblyReference.cache
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\Design_Patterns\BridgePattern_Revisited\BridgePattern_Revisited\obj\Debug\BridgePattern_Revisited.exe
+Z:\Documents\dev\ASP.NET\CCSD\MOD11\PRG_310\Design_Patterns\BridgePattern_Revisited\BridgePattern_Revisited\obj\Debug\BridgePattern_Revisited.pdb
